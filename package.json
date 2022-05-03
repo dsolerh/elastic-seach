@@ -11,6 +11,14 @@
     "node",
     "express"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "dsolerh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsolerh/elastic-seach.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsolerh/elastic-seach/issues"
+  },
+  "homepage": "https://github.com/dsolerh/elastic-seach#readme"
 }
